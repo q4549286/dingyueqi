@@ -5,60 +5,21 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-'time.cloudflare.com:443#官方优选域名',
-'shopify.com:443#官方优选域名',
-'time.is:443#官方优选域名',
-'icook.hk:443#官方优选域名',
-'icook.tw:443#官方优选域名',
-'ip.sb:443#官方优选域名',
-'japan.com:443#官方优选域名',
-'malaysia.com:443#官方优选域名',
-'russia.com:443#官方优选域名',
-'singapore.com:443#官方优选域名',
-'skk.moe:443#官方优选域名',
-'www.visa.com:443#官方优选域名',
-'www.visa.com.sg:443#官方优选域名',
-'www.visa.com.hk:443#官方优选域名',
-'www.visa.com.tw:443#官方优选域名',
-'www.visa.co.jp:443#官方优选域名',
-'www.visakorea.com:443#官方优选域名',
-'www.gco.gov.qa:443#官方优选域名',
-'www.gov.se:443#官方优选域名',
-'www.gov.ua:443#官方优选域名',
-'www.digitalocean.com:443#官方优选域名',
-'www.csgo.com:443#官方优选域名',
-'www.shopify.com:443#官方优选域名',
-'www.whoer.net:443#官方优选域名',
-'www.whatismyip.com:443#官方优选域名',
-'www.ipget.net:443#官方优选域名',
-'www.hugedomains.com:443#官方优选域名',
-'www.udacity.com:443#官方优选域名',
-'www.4chan.org:443#官方优选域名',
-'www.okcupid.com:443#官方优选域名',
-'www.glassdoor.com:443#官方优选域名',
-'www.udemy.com:443#官方优选域名',
-'www.baipiao.eu.org:443#官方优选域名',
-'cdn.anycast.eu.org:443#官方优选域名',
-'cdn-all.xn--b6gac.eu.org:443#官方优选域名',
-'cdn-b100.xn--b6gac.eu.org:443#官方优选域名',
-'xn--b6gac.eu.org:443#官方优选域名',
-'edgetunnel.anycast.eu.org:443#官方优选域名',
-'alejandracaiccedo.com:443#官方优选域名',
-'nc.gocada.co:443#官方优选域名',
-'log.bpminecraft.com:443#官方优选域名',
-'www.boba88slot.com:443#官方优选域名',
-'gur.gov.ua:443#官方优选域名',
-'www.zsu.gov.ua:443#官方优选域名',
-'www.iakeys.com:443#官方优选域名',
-'edtunnel-dgp.pages.dev:443#官方优选域名',
-'www.d-555.com:443#官方优选域名',
-'fbi.gov:443#官方优选域名',
-'www.visa.com.sg:443#官方优选域名',
+  'icook.tw:2053#优选域名',
+  'cloudflare.cfgo.cc#优选官方线路',
+  'cfip.xxxxxxxx.tk:2096#优选域名',
+  'cdn.kaiche.tk:2096#优选域名',
+  'c.xf.free.hr:2087#优选域名',
+  'cf.090227.xyz:443#优选域名',
+  'sp.rweek.top:443#优选域名',
+  'hk.rweek.top:2052#优选域名',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestcf.txt', //可参考内容格式 自行搭建。
+        'https://raw.githubusercontent.com/ymyuuu/IPDB/main/bestproxy.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
