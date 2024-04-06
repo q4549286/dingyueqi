@@ -5,14 +5,13 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-  'icook.tw:2053#优选域名',
-  'cloudflare.cfgo.cc#优选官方线路',
-  'cfip.xxxxxxxx.tk:2096#优选域名',
-  'cdn.kaiche.tk:2096#优选域名',
-  'c.xf.free.hr:2087#优选域名',
-  'cf.090227.xyz:443#优选域名',
-  'sp.rweek.top:443#优选域名',
-  'hk.rweek.top:2052#优选域名',
+  'icook.tw:2096#优选域名',
+  'icook.hk:8443#优选域名',
+  'cloudflare.cfgo.cc:2053#优选官方线路',
+  'skk.moe:2096#优选域名',
+  'cfip.xxxxxxxx.tk:8443#优选域名-OTC',
+  'cf.090227.xyz#优选域名-CM',
+
 ];
 
 // 设置优选地址api接口
