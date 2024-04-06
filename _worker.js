@@ -14,6 +14,7 @@ let addressesapi = [
 	'https://ct.xxxxxxxx.tk', //可参考内容格式 自行搭建。
 	'https://addressesapi.090227.xyz/ct', //可参考内容格式 自行搭建。
 	'https://addressesapi.090227.xyz/CloudFlareYes', 
+	'https://ip.164746.xyz',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
