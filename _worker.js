@@ -15,7 +15,7 @@ let addressesapi = [
 	'https://addressesapi.090227.xyz/ct', //可参考内容格式 自行搭建。
 	'https://addressesapi.090227.xyz/CloudFlareYes', 
 	'https://raw.githubusercontent.com/q4549286/dingyueqi/main/addressesapi.txt',
-	'https://ipdb.api.030101.xyz/?type=bestproxy&country=true',
+	'https://proxyip.aliyun.fxxk.dedyn.io',
 	'https://zzzzzz.rr.nu',
 ];
 
