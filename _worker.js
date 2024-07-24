@@ -41,10 +41,18 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'true';
 let proxyIPs = [
+	'proxyip.us.fxxk.dedyn.io',
+	'proxyip.sg.fxxk.dedyn.io',
+	'proxyip.jp.fxxk.dedyn.io',
+	'proxyip.hk.fxxk.dedyn.io',
 	'proxyip.aliyun.fxxk.dedyn.io',
-	'proxyip.multacom.fxxk.dedyn.io',
-	'proxyip.vultr.fxxk.dedyn.io',
 	'proxyip.oracle.fxxk.dedyn.io',
+	'my-telegram-is-herocore.onecf.eu.org',
+ 'sg.ipdb.rr.nu',
+	'hk.ipdb.rr.nu',
+	'us.ipdb.rr.nu',
+ 'hk.cf.zhetengsha.eu.org',
+	'sg.cf.zhetengsha.eu.org',
 ];
 let CMproxyIPs = [
 	//{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
